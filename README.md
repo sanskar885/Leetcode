@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/sanskar885/Leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanskar885/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Hash Table
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
