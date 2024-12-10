@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskar885/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/sanskar885/Leetcode/tree/master/0338-counting-bits) |
 ## Linked List
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/sanskar885/Leetcode/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/sanskar885/Leetcode/tree/master/0338-counting-bits) |
 ## Binary Search
 |  |
 | ------- |
