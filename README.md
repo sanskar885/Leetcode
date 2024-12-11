@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanskar885/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/sanskar885/Leetcode/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sanskar885/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/sanskar885/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/sanskar885/Leetcode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
