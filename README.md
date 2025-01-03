@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanskar885/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sanskar885/Leetcode/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/sanskar885/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/sanskar885/Leetcode/tree/master/0189-rotate-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sanskar885/Leetcode/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/sanskar885/Leetcode/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/sanskar885/Leetcode/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskar885/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/sanskar885/Leetcode/tree/master/0136-single-number) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/sanskar885/Leetcode/tree/master/0016-3sum-closest) |
 | [0169-majority-element](https://github.com/sanskar885/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/sanskar885/Leetcode/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/sanskar885/Leetcode/tree/master/0941-sort-array-by-parity) |
