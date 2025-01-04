@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanskar885/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanskar885/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sanskar885/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/sanskar885/Leetcode/tree/master/0141-linked-list-cycle) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanskar885/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sanskar885/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sanskar885/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Number Theory
 |  |
 | ------- |
