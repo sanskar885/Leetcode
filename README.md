@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/sanskar885/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/sanskar885/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanskar885/Leetcode/tree/master/0268-missing-number) |
+| [0518-coin-change-ii](https://github.com/sanskar885/Leetcode/tree/master/0518-coin-change-ii) |
 | [0941-sort-array-by-parity](https://github.com/sanskar885/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanskar885/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskar885/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sanskar885/Leetcode/tree/master/0338-counting-bits) |
+| [0518-coin-change-ii](https://github.com/sanskar885/Leetcode/tree/master/0518-coin-change-ii) |
 ## Linked List
 |  |
 | ------- |
