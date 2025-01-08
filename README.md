@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanskar885/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sanskar885/Leetcode/tree/master/0268-missing-number) |
 | [0518-coin-change-ii](https://github.com/sanskar885/Leetcode/tree/master/0518-coin-change-ii) |
+| [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/sanskar885/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanskar885/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sanskar885/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/sanskar885/Leetcode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/sanskar885/Leetcode/tree/master/0268-missing-number) |
+| [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/sanskar885/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/sanskar885/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/sanskar885/Leetcode/tree/master/0268-missing-number) |
+| [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
 ## Sorting
 |  |
 | ------- |
@@ -154,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanskar885/Leetcode/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
+## Randomized
+|  |
+| ------- |
+| [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
 <!---LeetCode Topics End-->
