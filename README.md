@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/sanskar885/Leetcode/tree/master/0518-coin-change-ii) |
 | [0912-random-pick-with-weight](https://github.com/sanskar885/Leetcode/tree/master/0912-random-pick-with-weight) |
 | [0941-sort-array-by-parity](https://github.com/sanskar885/Leetcode/tree/master/0941-sort-array-by-parity) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanskar885/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/sanskar885/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Dynamic Programming
 |  |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanskar885/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/sanskar885/Leetcode/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/sanskar885/Leetcode/tree/master/0518-coin-change-ii) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanskar885/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Linked List
 |  |
 | ------- |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sanskar885/Leetcode/tree/master/0048-rotate-image) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/sanskar885/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
 | ------- |
