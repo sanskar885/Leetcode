@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanskar885/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/sanskar885/Leetcode/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/sanskar885/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sanskar885/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sanskar885/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/sanskar885/Leetcode/tree/master/0344-reverse-string) |
